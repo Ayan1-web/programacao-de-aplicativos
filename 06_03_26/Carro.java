@@ -4,10 +4,7 @@ public class Carro {
     private int velocidade_atual;
     private int velocidade_maxima;
 
-    public static void main(String[] args) {
-        
-    }
-
+    
     public Carro(String marca, int velocidade_maxima) {
         this.marca = marca;
         this.velocidade_maxima = velocidade_maxima;
